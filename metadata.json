@@ -1,0 +1,6 @@
+{
+  "name": "Vamos Addis Hotel",
+  "description": "Stay at Vamos Addis Hotel in Bole, Addis Ababa. Enjoy comfortable rooms, dining, wellness, fitness, airport shuttle service and convenient access to Bole International Airport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
